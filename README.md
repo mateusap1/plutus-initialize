@@ -31,4 +31,4 @@ Example
 foo@bar:~$ initialize.py 1
 ``` 
 
-This command would change the plutus repo version to the one the first lecture was compatible with.
+This command would change the plutus repo version to the one the first lecture was compatible with, build it and run a nix-shell.
