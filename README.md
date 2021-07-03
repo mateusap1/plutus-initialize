@@ -28,7 +28,7 @@ Finally, you can simply run the script, giving the desired lecture number as an 
 
 Example
 ```console
-foo@bar:~$ initialize.py 1
+foo@bar:~$ python3 initialize.py 1
 ``` 
 
 This command would change the plutus repo version to the one the first lecture was compatible with, build it and run a nix-shell.
